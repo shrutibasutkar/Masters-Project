@@ -5,9 +5,9 @@ This repository is to provide building block for the research.
 
 ## Settin up
 
--install Android Studio
--Clone or Download project
--open project from Android Studio
+- install Android Studio
+- Clone or Download project
+- open project from Android Studio
 
 ## Test the Application
 
