@@ -1,15 +1,15 @@
 # Masters-Project : Indoor Localization
 
 This is research Project on Indoor Localization using Federated Learning. 
-This repository is to provide building block for the research.  
+This repository is to provide building block for further implementation.  
 
 ## Settin up
 
-- install Android Studio
+- Install Android Studio
 - Clone or Download project
-- open project from Android Studio
+- Open project from Android Studio
 
-## Test the Application
+## Application Testing
 
 
 
