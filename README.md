@@ -17,6 +17,6 @@ This is a Android application for collecting RSSI values of nearest Wi-Fi Access
   - Open Application, Map will be shown on the screen
   - Decide various points of the map to collect Wi-Fi
   - Now, go to that actual point and click on the Map of Application
-  - You will see the Wi-Fi RSSI values and co-ordinates
+  - You will see all Wi-Fi RSSI values for the corresponding co-ordinates point.
 
 
