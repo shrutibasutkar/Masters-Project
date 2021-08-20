@@ -10,7 +10,8 @@ This is a Android application for collecting RSSI values of nearest Wi-Fi Access
 ## Application Testing
 - First Test application on Android emulator
 - Then install app on user android phone
-  - for that user need to do set up for developer mode
-  - in setting give location permission
+  - For that user need to do set up for developer mode
+  - Provide Location permission access to the App as follows (It can be varried as per user phone)
+    - Go to phone setting -> App & Notification -> App Permission -> Location -> Turn on Location for this App
 
 
