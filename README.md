@@ -1,7 +1,7 @@
 # Masters-Project : Indoor Localization
 This is a Android application for collecting RSSI values of nearest Wi-Fi Access Points.
 
-## Settin up
+## Setting up
 
 - Install Android Studio
 - Clone or Download project
